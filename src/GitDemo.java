@@ -1,5 +1,5 @@
 public class GitDemo {
-    public static void main(String[] sysArgs) {
+    public static void main(String[] args) {
         System.out.println("Hello Adrien");
     }
 }
